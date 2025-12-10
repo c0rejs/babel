@@ -1,6 +1,6 @@
 <!-- !!! DO NOT EDIT, THIS FILE IS GENERATED AUTOMATICALLY !!!  -->
 
-> ℹ️ Please, see the full project documentation here:<br><https://softvisio-node.github.io/babel/>
+> ℹ️ Please, see the full project documentation here:<br><https://c0rejs.github.io/babel/>
 
 # Introduction
 
@@ -9,13 +9,13 @@ Optimal `babel` config for parsing and transformations.
 ## Install
 
 ```sh
-npm install @softvisio/babel
+npm install @c0rejs/babel
 ```
 
 ## Usage
 
 ```javascript
-import { createConfig, parseAsync, transformAsync } from "@softvisio/babel";
+import { createConfig, parseAsync, transformAsync } from "@c0rejs/babel";
 
 // parse
 const ast = await parseAsync( code, createConfig() );
