@@ -1,5 +1,15 @@
 # Changelog
 
+### v1.4.26 (2025-12-10)
+
+**Other changes:**
+
+- build: migrate to c0rejs namespace (● [360b614](https://github.com/c0rejs/babel/commit/360b614), [890a0db](https://github.com/c0rejs/babel/commit/890a0db); 👬 zdm)
+
+- chore(metadata): update package metadata (● [9082b02](https://github.com/c0rejs/babel/commit/9082b02); 👬 zdm)
+
+Compare with the previous release: [v1.4.25](https://github.com/c0rejs/babel/compare/v1.4.25...v1.4.26)
+
 ### v1.4.25 (2025-07-23)
 
 **Other changes:**
