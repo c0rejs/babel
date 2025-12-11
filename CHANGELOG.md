@@ -1,5 +1,17 @@
 # Changelog
 
+### v1.4.27 (2025-12-11)
+
+**Bug fixes:**
+
+- \[PATCH] fix: update npmrc (● [c7bf98b](https://github.com/c0rejs/babel/commit/c7bf98b); 👬 zdm)
+
+**Other changes:**
+
+- build: migrate to c0rejs namespace (● [034b135](https://github.com/c0rejs/babel/commit/034b135); 👬 zdm)
+
+Compare with the previous release: [v1.4.26](https://github.com/c0rejs/babel/compare/v1.4.26...v1.4.27)
+
 ### v1.4.26 (2025-12-10)
 
 **Other changes:**
