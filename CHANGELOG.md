@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.4.28 (2026-01-05)
+
+**Other changes:**
+
+- chore: remove npm @sencha:registry (● [48c720e](https://github.com/c0rejs/babel/commit/48c720e); 👬 zdm)
+
+Compare with the previous release: [v1.4.27](https://github.com/c0rejs/babel/compare/v1.4.27...v1.4.28)
+
 ### v1.4.27 (2025-12-11)
 
 **Bug fixes:**
