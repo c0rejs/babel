@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.4.30 (2026-01-28)
+
+**Other changes:**
+
+- chore(metadata): update package metadata (● [656e930](https://github.com/c0rejs/babel/commit/656e930); 👬 zdm)
+
+Compare with the previous release: [v1.4.29](https://github.com/c0rejs/babel/compare/v1.4.29...v1.4.30)
+
 ### v1.4.29 (2026-01-27)
 
 **Other changes:**
