@@ -1,5 +1,11 @@
 # Changelog
 
+### v1.4.31 (2026-01-29)
+
+No changes since the previous release.
+
+Compare with the previous release: [v1.4.30](https://github.com/c0rejs/babel/compare/v1.4.30...v1.4.31)
+
 ### v1.4.30 (2026-01-28)
 
 **Other changes:**
