@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.4.32 (2026-01-31)
+
+**Other changes:**
+
+- chore: rename package (● [71d8b93](https://github.com/corejslib/babel/commit/71d8b93), [bc6069f](https://github.com/corejslib/babel/commit/bc6069f); 👬 zdm)
+
+Compare with the previous release: [v1.4.31](https://github.com/corejslib/babel/compare/v1.4.31...v1.4.32)
+
 ### v1.4.31 (2026-01-29)
 
 No changes since the previous release.
