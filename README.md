@@ -1,6 +1,6 @@
 <!-- !!! DO NOT EDIT, THIS FILE IS GENERATED AUTOMATICALLY !!!  -->
 
-> ℹ️ Please, see the full project documentation here:<br><https://c0rejs.github.io/babel/>
+> ℹ️ Please, see the full project documentation here:<br><https://corejslib.github.io/babel/>
 
 # Introduction
 
@@ -9,13 +9,13 @@ Optimal `babel` config for parsing and transformations.
 ## Install
 
 ```sh
-npm install @c0rejs/babel
+npm install @corejslib/babel
 ```
 
 ## Usage
 
 ```javascript
-import { createConfig, parseAsync, transformAsync } from "@c0rejs/babel";
+import { createConfig, parseAsync, transformAsync } from "@corejslib/babel";
 
 // parse
 const ast = await parseAsync( code, createConfig() );
