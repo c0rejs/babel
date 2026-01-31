@@ -5,13 +5,13 @@ Optimal `babel` config for parsing and transformations.
 ## Install
 
 ```sh
-npm install @c0rejs/babel
+npm install @corejslib/babel
 ```
 
 ## Usage
 
 ```javascript
-import { createConfig, parseAsync, transformAsync } from "@c0rejs/babel";
+import { createConfig, parseAsync, transformAsync } from "@corejslib/babel";
 
 // parse
 const ast = await parseAsync( code, createConfig() );

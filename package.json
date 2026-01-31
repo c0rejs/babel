@@ -1,19 +1,19 @@
 {
-    "name": "@c0rejs/babel",
+    "name": "@corejslib/babel",
     "version": "1.4.31",
     "description": "Babel bundle",
     "keywords": [
         "softvisio",
         "babel"
     ],
-    "homepage": "https://c0rejs.github.io/babel/",
+    "homepage": "https://corejslib.github.io/babel/",
     "bugs": {
-        "url": "https://github.com/c0rejs/babel/issues",
+        "url": "https://github.com/corejslib/babel/issues",
         "email": "root <root@softvisio.net>"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/c0rejs/babel.git"
+        "url": "git+https://github.com/corejslib/babel.git"
     },
     "license": "ISC",
     "author": "root <root@softvisio.net>",
