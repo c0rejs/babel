@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.4.33 (2026-02-05)
+
+**Other changes:**
+
+- chore: remove @zdm npm registry (● [b3133cc](https://github.com/corejslib/babel/commit/b3133cc); 👬 zdm)
+
+Compare with the previous release: [v1.4.32](https://github.com/corejslib/babel/compare/v1.4.32...v1.4.33)
+
 ### v1.4.32 (2026-01-31)
 
 **Other changes:**
