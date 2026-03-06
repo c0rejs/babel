@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.4.34 (2026-03-06)
+
+**Other changes:**
+
+- chore(metadata): update package metadata (● [2d3bf73](https://github.com/corejslib/babel/commit/2d3bf73); 👬 zdm)
+
+Compare with the previous release: [v1.4.33](https://github.com/corejslib/babel/compare/v1.4.33...v1.4.34)
+
 ### v1.4.33 (2026-02-05)
 
 **Other changes:**
