@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.4.36 (2026-04-20)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: update .editorconfig (● [24b7a0c](https://github.com/corejslib/babel/commit/24b7a0c); 👬 zdm)
+
+Compare with the previous release: [v1.4.35...v1.4.36](https://github.com/corejslib/babel/compare/v1.4.35...v1.4.36)
+
 ### v1.4.35 (2026-03-18)
 
 **Other changes:**
