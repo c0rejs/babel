@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.4.37 (2026-05-07)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: rename cli.config.yaml to scli.config.yaml (● [65f92d5](https://github.com/corejslib/babel/commit/65f92d5); 👬 zdm)
+
+Compare with the previous release: [v1.4.36...v1.4.37](https://github.com/corejslib/babel/compare/v1.4.36...v1.4.37)
+
 ### v1.4.36 (2026-04-20)
 
 **Code refactoring:**
