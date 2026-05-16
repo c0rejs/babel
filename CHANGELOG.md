@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.4.38 (2026-05-16)
+
+**Other changes:**
+
+- docs: update readme (● [ba9e86d](https://github.com/corejslib/babel/commit/ba9e86d); 👬 zdm)
+
+Compare with the previous release: [v1.4.37...v1.4.38](https://github.com/corejslib/babel/compare/v1.4.37...v1.4.38)
+
 ### v1.4.37 (2026-05-07)
 
 **Code refactoring:**
