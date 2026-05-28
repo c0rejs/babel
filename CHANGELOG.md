@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.4.40 (2026-05-28)
+
+**Other changes:**
+
+- build: remove registries from .npmrc (● [5000a10](https://github.com/corejslib/babel/commit/5000a10); 👬 zdm)
+
+Compare with the previous release: [v1.4.39...v1.4.40](https://github.com/corejslib/babel/compare/v1.4.39...v1.4.40)
+
 ### v1.4.39 (2026-05-16)
 
 **Other changes:**
