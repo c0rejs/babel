@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.6.0 (2026-06-17)
+
+**New features:**
+
+- \[MINOR] feat: migrate to babel 8 (● [3140b9d](https://github.com/corejslib/babel/commit/3140b9d), [37b27fe](https://github.com/corejslib/babel/commit/37b27fe), [3f8d788](https://github.com/corejslib/babel/commit/3f8d788); 👬 zdm)
+
+Compare with the previous release: [v1.5.0...v1.6.0](https://github.com/corejslib/babel/compare/v1.5.0...v1.6.0)
+
 ### v1.5.0 (2026-06-17)
 
 **New features:**
