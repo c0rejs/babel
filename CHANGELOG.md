@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.6.1 (2026-06-21)
+
+**Other changes:**
+
+- style: lint (● [34ac567](https://github.com/corejslib/babel/commit/34ac567); 👬 zdm)
+
+Compare with the previous release: [v1.6.0...v1.6.1](https://github.com/corejslib/babel/compare/v1.6.0...v1.6.1)
+
 ### v1.6.0 (2026-06-17)
 
 **New features:**
