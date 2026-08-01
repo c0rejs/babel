@@ -3,7 +3,6 @@
     "version": "1.6.1",
     "description": "Babel bundle",
     "keywords": [
-        "softvisio",
         "babel"
     ],
     "homepage": "https://corejslib.github.io/babel/",
