@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.6.3 (2026-08-01)
+
+**Other changes:**
+
+- chore: rename softvisio to corejslib (● [8b02a80](https://github.com/corejslib/babel/commit/8b02a80); 👬 zdm)
+
+Compare with the previous release: [v1.6.2...v1.6.3](https://github.com/corejslib/babel/compare/v1.6.2...v1.6.3)
+
 ### v1.6.2 (2026-08-01)
 
 **Bug fixes:**
