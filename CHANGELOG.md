@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.6.4 (2026-08-04)
+
+**Other changes:**
+
+- chore: rename ccli to zcli (● [e0c8d15](https://github.com/corejslib/babel/commit/e0c8d15), [a5f32b5](https://github.com/corejslib/babel/commit/a5f32b5), [268b1af](https://github.com/corejslib/babel/commit/268b1af); 👬 zdm)
+
+Compare with the previous release: [v1.6.3...v1.6.4](https://github.com/corejslib/babel/compare/v1.6.3...v1.6.4)
+
 ### v1.6.3 (2026-08-01)
 
 **Other changes:**
